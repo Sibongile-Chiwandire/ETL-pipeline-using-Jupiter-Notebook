@@ -24,6 +24,7 @@ Before running the pipeline, ensure you have the following installed:
 - `Database.Schema.Table.sql`: SQL script to create the target database, schema and the table to load the data.
 - `Queries.sql`: SQL queries to extract insights from the loaded data.
 - `Optimizations.sql`: SQL queries to optimize the running of transactions in the database by improving query speed.
+- Customers.csv : An exported excel file showing the transformed data loaded into the database.
 - Approach And Optimizations.pdf:A brief write-up explaining my approach, optimizations, and any trade-offs I made.
 - Assesment Theory Answers pdf: Answers to theory Questions
 - `README.md`: Instructions for running the pipeline.
