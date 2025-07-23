@@ -1,6 +1,6 @@
 <img width="209" alt="image" src="https://github.com/user-attachments/assets/343ec296-c453-476c-9a45-0c8039d1a003" />
 
-# Planet42Assesment
+# Simple ETL Pipeline
 ETL Pipeline using pandas to pull data from an API and loading into MySql database
 
 # ETL Pipeline - Customer Transactions
